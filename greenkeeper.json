@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "quero-contribuir/package.json"
+      ]
+    }
+  }
+}
